@@ -14,15 +14,17 @@ We will be working with YouTube dataset, which gives us information of YouTube c
 ### Installations Required
 - [Python](https://www.python.org/)
 - [My_SQL](https://www.mysql.com/products/workbench/)
+- Python libraries (Pandas,Matplotlib,Seaborn)
 ### Running the Tests
-```mermaid
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
+```sh
+Step1- Import python libraries
+Step2- Creating a dataframe
+Step3- Filtering top 1000 rows
+Step4- Plotting the filtered rows
 ```
 ### Deployment
 ### Author
 Pradeep Rajashekaran (100848443)
 ### Acknowledgement
+- This document leveraged heavily from the [git markdown](https://docs.gitlab.com/ee/user/markdown.html).
+- The code and outline is taken from Assignment4 DATA 1202.
