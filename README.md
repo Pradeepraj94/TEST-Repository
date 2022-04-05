@@ -22,7 +22,6 @@ Step2- Creating a dataframe
 Step3- Filtering top 1000 rows
 Step4- Plotting the filtered rows
 ```
-### Deployment
 ### Author
 Pradeep Rajashekaran (100848443)
 ### Acknowledgement
